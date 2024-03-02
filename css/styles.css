@@ -185,3 +185,12 @@ img {
     font-size: 2rem;
 }
 
+.footer {
+    display: flex;
+    height: 100px;
+    background-color: black;
+    color: #f9faf8;
+    justify-content: center;
+    align-items: center;
+}
+
